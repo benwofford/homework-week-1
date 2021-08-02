@@ -15,16 +15,16 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+.company-name {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-.header div {
+.navigation {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
