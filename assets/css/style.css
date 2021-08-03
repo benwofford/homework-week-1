@@ -2,6 +2,8 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 body {
@@ -32,20 +34,12 @@ body {
     font-size: 20px;
 }
 
-.header div ul li {
+.navigation li {
     display: inline-block;
     margin-left: 25px;
     list-style-type: none;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -56,23 +50,13 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+.sidebar {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -160,14 +144,20 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    float: right;
+    margin-left: 25px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    float: left;
+    margin-right: 25px;
 }
 
 .search-engine-optimization h2 {
