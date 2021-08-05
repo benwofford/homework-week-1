@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Rules for nav bar */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* Sets parameters of landing image */
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +74,7 @@ main {
     margin-left: 20px;
 }
 
+/* Rules for sidebar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -131,6 +134,7 @@ aside {
     max-width: 150px;
 }
 
+/* Rules for content images */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
