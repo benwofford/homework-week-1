@@ -4,7 +4,7 @@
 
 ##Installation
 
-Follow attached github links for source code. The live link for the website can be found here.
+Follow attached github links for source code. The live link for the website can be found here: https://benwofford.github.io/homework-week-1/
 
 ##Usage
 
