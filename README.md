@@ -10,6 +10,9 @@ Follow attached github links for source code. The live link for the website can 
 
 The website's new structure should allow for a cleaner and more streamlined user experience. All of the links connect and the images have their alt tags.
 
+See an example of deployment below;
+https://github.com/benwofford/homework-week-1/issues/1#issue-976474352
+
 ##Credits
 
 The MDN references for HTML structuring were helpful for this project.
